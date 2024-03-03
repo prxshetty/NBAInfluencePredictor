@@ -1,0 +1,16 @@
+pytest
+nbval
+ipython
+requests
+python-twitter
+pandas
+pylint
+sensible
+jupyter
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+wikipedia
+spacy
+ggplot
