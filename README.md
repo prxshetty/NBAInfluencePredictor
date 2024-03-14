@@ -20,7 +20,7 @@ The script uses the following Python libraries:
 - statsmodels: for statistical modeling
 - matplotlib: for data visualization
 - seaborn: for data visualization
-
+- stathelper: for statistical Calculations
 
 # Usage
 To run the script, make sure you have the required Python libraries installed and the data files in the data/ directory. Then, simply run the script, and it will execute the analysis and prediction steps.
