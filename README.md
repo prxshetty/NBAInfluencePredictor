@@ -21,7 +21,13 @@ The script uses the following Python libraries:
 - matplotlib: for data visualization
 - seaborn: for data visualization
 - stathelper: for statistical Calculations
+  
+## Key Features
 
+Comprehensive data cleaning and preprocessing.
+Exploratory data analysis (EDA) of team and player performance metrics.
+Implementation of machine learning models for performance prediction.
+Visualization of key statistics for intuitive understanding.
 # Usage
 To run the script, make sure you have the required Python libraries installed and the data files in the data/ directory. Then, simply run the script, and it will execute the analysis and prediction steps.
 
